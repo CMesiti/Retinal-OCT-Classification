@@ -49,6 +49,13 @@ Model performance comparison (EfficientNetV2 vs. Custom CNN)
 Hyperparameter tuning
 Experimenting with different learning rates and augmentation techniques
 
+
+<img width="1201" height="699" alt="Predicted vs Actual" src="https://github.com/user-attachments/assets/33a84ec5-d810-4d9d-8053-8203ace54fbf" />
+
+<img width="706" height="527" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/62a925b7-4c0a-4822-81b1-615b8a4e2c18" />
+
+
+
 ---
 
 ### What’s Next
