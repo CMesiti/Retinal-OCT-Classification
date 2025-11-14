@@ -4,6 +4,9 @@
 Independent Research on Retinal OCT (Optical Coherence Topography) image classification, OCT is a non-invasive diagnostic technique highlighting the retina's distinctive layers. This research is following what I have learned with the OpenCV library and working with images. The goal of this project is to learn how to build a neural network with pytorch and enhance my understanding on deep learning concepts. Eventually leading to an end product that is a multi-class OCT image classification model. Manual detection from professionals is prone to errors and time-consuming. This project explores a deep learning approach as an automatic classification for OCT images. This study includes comparing two models, a fine-tuned EfficientNetB0-v2 transfer learning model and a custom-build Convolutional Neural Network inspired by VGG-16 to evaluate their effectiveness in distinguishing between normal and pathological cases
 
 
+<img width="1201" height="699" alt="Predicted vs Actual" src="https://github.com/user-attachments/assets/33a84ec5-d810-4d9d-8053-8203ace54fbf" />
+
+
 # Research Topics
 ### AI Applications in Medical Image Classification
 - Medical image classification leverages AI to assist in diagnosing diseases from imaging modalities such as Optical Coherence Tomography (OCT). Deep learning-based CNNs can help detect abnormalities like Age-related Macular Degeneration (AMD) and Diabetic Retinopathy with high accuracy.
@@ -49,8 +52,6 @@ Model performance comparison (EfficientNetV2 vs. Custom CNN)
 Hyperparameter tuning
 Experimenting with different learning rates and augmentation techniques
 
-
-<img width="1201" height="699" alt="Predicted vs Actual" src="https://github.com/user-attachments/assets/33a84ec5-d810-4d9d-8053-8203ace54fbf" />
 
 <img width="706" height="527" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/62a925b7-4c0a-4822-81b1-615b8a4e2c18" />
 
