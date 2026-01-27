@@ -1,5 +1,8 @@
 
 # Retinal-OCT-Classification
+<img width="1148" height="860" alt="image" src="https://github.com/user-attachments/assets/da8c31b8-69b0-4972-b498-b591050710fa" />
+
+
 Independent Research on Retinal OCT (Optical Coherence Topography) image classification, OCT is a non-invasive diagnostic technique highlighting the retina's distinctive layers. This research is following what I have learned with the OpenCV library and working with images. The goal of this project is to learn how to build a neural network with pytorch and enhance my understanding on deep learning concepts. Eventually leading to an end product that is a multi-class OCT image classification model. Manual detection from professionals is prone to errors and time-consuming. This project explores a deep learning approach as an automatic classification for OCT images. This study includes comparing two models, a fine-tuned EfficientNetB0-v2 transfer learning model and a custom-build Convolutional Neural Network inspired by VGG-16 to evaluate their effectiveness in distinguishing between normal and pathological cases
 
 
